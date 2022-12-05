@@ -1,4 +1,5 @@
 # RockGym
+This project is my attempt to make a better version of a managment system for climbing gyms
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
